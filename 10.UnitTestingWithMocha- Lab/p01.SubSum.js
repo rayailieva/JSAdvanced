@@ -1,4 +1,4 @@
-function subsum(arr, start, end) {
+function subSum(arr, start, end) {
 
     if(!Array.isArray(arr)){
 
